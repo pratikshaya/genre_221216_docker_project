@@ -1,0 +1,5 @@
+tensorflow-gpu==1.10.0
+keras==1.2.0
+librosa==0.9.2
+matplotlib==3.2.2
+mir_eval==0.7 
